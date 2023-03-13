@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Tiana!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a cat-themed note-taking site.
-- 🌱 I’m currently learning AWS and Socket.io
 - 🤔 I’m looking for help with connections and job opportunities.
-- 💬 Ask me about how I ended up being a software engineer!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiana-huynh-58b296168/)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love horror movies and anything spooky! (And cats)
